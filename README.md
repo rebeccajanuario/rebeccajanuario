@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rebeccajanuario
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C++, Phyton
-- 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me rebeccajanuario@gmail.com
 
 <!---
