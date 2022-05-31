@@ -1,4 +1,4 @@
-## Oiii eu sou a Rebecca Januario, criadora de conteúdo de programação e tecnologia!
+## Oiii eu sou a Rebecca Januario, estudante de Desenvolvimento de Sistemas!
 
   
 
