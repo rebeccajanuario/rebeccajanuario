@@ -1,5 +1,11 @@
-## Oiii eu sou a Rebecca Januario, estudante de Desenvolvimento de Sistemas!
+## Hiii i'm Rebecca Januario!
 
+- 🔭 I’m currently working on my profile 
+- 🌱 I’m currently learning System Development
+- 🤔 I’m looking for help with C# and PHP
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: What is in the Matrix?
+-->
   
 
 <div > 
