@@ -1,8 +1,8 @@
-## Hiii i'm Rebecca Januario!
+## Hiii I'm Rebecca Januario! 
 
 - 🔭 I’m currently working on my profile 
-- 🌱 I’m currently learning System Development
-- 🤔 I’m looking for help with C# and PHP
+- 🌱 I’m studying System Development
+- 🤔 Looking for help with C# and PHP
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: What is in the Matrix?
 -->
