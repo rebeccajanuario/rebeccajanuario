@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my profile 
 - 🌱 I’m studying System Development
-- 🤔 Looking for help with C# and PHP
+- 🤔 Looking for help with Java and PHP
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: What is in the Matrix?
 -->
