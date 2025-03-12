@@ -1,9 +1,8 @@
 ## Hiii I'm Rebecca Januario! 
 
 - 🔭 I’m currently working on my profile 
-- 🌱 I’m studying System Development
-- 🤔 Looking for help with PHP
-- 😄 Pronouns: She/her
+- 🌱 I’m studying Analysis and System Development
+- 🤔 Looking for help with CyberSecurity
 - ⚡ Fun fact: What is in the Matrix?
 -->
   
