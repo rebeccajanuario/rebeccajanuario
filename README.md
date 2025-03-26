@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my profile 
 - 🌱 I’m studying Analysis and System Development
-- 🤔 Looking for help with CyberSecurity
 - ⚡ Fun fact: What is in the Matrix?
 -->
   
