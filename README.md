@@ -1,7 +1,7 @@
 ## Hiii I'm Rebecca Januario! 
 
 - 🔭 I’m currently working on my profile 
-- 🌱 I’m studying Analysis and System Development ( last semester )
+- 🌱 I’m studying Analysis and System Development ( graduating )
 - ⚡ Fun fact: What is in the Matrix?
 -->
   
